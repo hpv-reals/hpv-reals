@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
-**hpv-reals/hpv-reals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+``` yml
+              .@@@@@@@@@@@@@@.                hpv-real ~
+            @@@@@@@@@@@@@@@@@@@@              -----------------------------------------------------------------
+           @@@@@@@@@@@@@@@@@@@@@@             Role: ................................. Backend Lead & System Eng
+          @@@@@@@@.      .@@@@@@@@            Company: ............................................. Weeds Vina
+          @@@@@@@@@@@@@@@@@@@@@@@@            Location: ........................................ Hanoi, Vietnam
+          @@@@@@@/::::\@/::::\@@@@            IDE: ...................................... IntelliJ IDEA, VSCode
+          @@@@@@@|    |@|    |@@@@            
+          .@@@@@@\____/@\____/@@@.            Languages.Programming: ..................... Java, JavaScript, SQL
+           @@@@@@@@@@@@@@@@@@@@@@             Languages.Frameworks: .........................Spring Boot, Vue.js
+           .@@@@@@@@@@@@@@@@@@@@.             Languages.Real: ......................Vietnamese (Native), English
+             @@@@@@\____/@@@@@@               
+               @@@@@@@@@@@@@@                 Hobbies.Software: .......Stream-processing, Agentic AI, Local LLMs
+                 @@@@@@@@@@                   Hobbies.Hardware: ...............Mechanical Keyboards, PC Building
+                                              
+                                              Contact -----------------------------------------------------------
+                                              Email: ......................................... hieppv36@gmail.com
+                                              LinkedIn: ................................................ hieppv36                                           
+```
